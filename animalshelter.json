@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "1",
+    "name": "Bella",
+    "species": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 3,
+    "gender": "Female",
+    "admission_date": "2024-12-01",
+    "adopted": false,
+    "health_status": "Healthy"
+  },
+  {
+    "_id": "2",
+    "name": "Max",
+    "species": "Cat",
+    "breed": "Siamese",
+    "age": 2,
+    "gender": "Male",
+    "admission_date": "2025-01-15",
+    "adopted": false,
+    "health_status": "Needs Vaccination"
+  },
+  {
+    "_id": "3",
+    "name": "Charlie",
+    "species": "Dog",
+    "breed": "Beagle",
+    "age": 5,
+    "gender": "Male",
+    "admission_date": "2025-03-22",
+    "adopted": true,
+    "health_status": "Healthy"
+  },
+  {
+    "_id": "4",
+    "name": "Lucy",
+    "species": "Rabbit",
+    "breed": "Dutch",
+    "age": 1,
+    "gender": "Female",
+    "admission_date": "2025-05-10",
+    "adopted": false,
+    "health_status": "Healthy"
+  },
+  {
+    "_id": "5",
+    "name": "Daisy",
+    "species": "Cat",
+    "breed": "Maine Coon",
+    "age": 4,
+    "gender": "Female",
+    "admission_date": "2025-06-05",
+    "adopted": true,
+    "health_status": "Spayed and Healthy"
+  }
+]
